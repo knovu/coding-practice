@@ -1,0 +1,20 @@
+{
+  "name": "coding-practice",
+  "version": "1.0.0",
+  "description": "Solving LeetCode problems to prepare for technical interviews 🚀",
+  "author": "knovu",
+  "license": "ISC",
+  "packageManager": "pnpm@10.18.3",
+  "scripts": {
+    "run": "ts-node",
+    "dev": "ts-node src/main.ts",
+    "check": "prettier --check .",
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "@types/node": "^25.3.3",
+    "prettier": "^3.8.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}

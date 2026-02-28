@@ -1,0 +1,29 @@
+# Build output
+dist/
+build/
+out/
+coverage/
+.next/
+
+# Dependency directories
+node_modules/
+.pnp/
+.pnpm-store/
+
+# Logs
+*.log
+
+# Lockfiles
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# OS or editor files
+.DS_Store
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Misc
+*.min.js
