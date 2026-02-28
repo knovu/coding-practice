@@ -10,7 +10,7 @@
     "noUncheckedIndexedAccess": true,
     "skipLibCheck": true,
     "moduleDetection": "force",
-    "verbatimModuleSyntax": true,
+    "verbatimModuleSyntax": false,
     "isolatedModules": true
   }
 }
